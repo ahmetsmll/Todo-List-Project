@@ -1,0 +1,1 @@
+JavaScript ile  basit bir todo list projesi geliştirdim. Bu projede hem arayüze hem de local storage e todo ekleme işlemi ,  arayüzden ve local storageden todo silme işlemi , todo filtreleme işlemi eklendi. 
